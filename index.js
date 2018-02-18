@@ -1,2 +1,8 @@
 // write your code below!
-happyHolidays
+function happyHolidays(){
+  retrun "Happy Holidays"
+}
+
+happyHolidaysTo(string){
+  `Happy holidays, ${name}!`
+}
